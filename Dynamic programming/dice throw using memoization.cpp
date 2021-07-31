@@ -2,6 +2,9 @@
 
 https://binarysearch.com/problems/Dice-Throw
 
+to-do: 
+dp tabulation solution 
+reference link: https://www.geeksforgeeks.org/dice-throw-dp-30/
 */
 
 
